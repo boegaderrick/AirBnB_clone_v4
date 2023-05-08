@@ -99,3 +99,26 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+.places .reviews {
+	text-align: left;
+	margin-top: 40px;
+}
+
+.places .reviews h2 {
+	text-align: left;
+	font-size: 16px;
+	border-bottom: 1px solid #DDDDDD;
+}
+
+.places #toggle {
+    font-size: 10px;
+    margin-right: 10px;
+    float: right;
+    margin-top: 3px;
+}
+
+.places #toggle:hover {
+    color: #FF5A5F;
+    cursor: pointer;
+}
